@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Meminfo.qml</file>
+        <file>Devices.qml</file>
+        <file>Cpuinfo.qml</file>
+        <file>Classik1.qml</file>
+        <file>Keyboard.qml</file>
+        <file>AnotherWindow.qml</file>
+        <file>AnotherWindow1.qml</file>
+    </qresource>
+</RCC>
